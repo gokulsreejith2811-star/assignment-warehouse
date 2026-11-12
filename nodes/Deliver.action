@@ -1,0 +1,9 @@
+string destination
+float32 distance
+float32 speed
+---
+bool success
+float32 time_taken
+---
+float32 remaining_distance
+float32 percent
